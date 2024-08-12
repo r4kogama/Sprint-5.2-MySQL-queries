@@ -7,7 +7,7 @@ Tenemos las tablas producto y fabricante, cada una con los siguientes campos:
 - fabricante (codigo, número)
 El campo 'codigo_fabricante' de la entidad producto se relaciona con el campo 'código' de la entidad fabricante.
 
-![](https://github.com/r4kogama/Sprint-5.2-MySQL-queries/images/tienda.jpg){width='100px'}
+![](https://github.com/r4kogama/Sprint-5.2-MySQL-queries/blob/main/images/tienda.JPG){width='100px'}
 
 
 ####  Lista el nombre de todos los productos que hay en la tabla producto.
@@ -65,7 +65,7 @@ El campo 'codigo_fabricante' de la entidad producto se relaciona con el campo 'c
 
 La base de datos de universidad, en la imagen se pueden ver sus campos
 
-![](https://github.com/r4kogama/Sprint-5.2-MySQL-queries/images/universidad.jpg){width='100px'}
+![](https://github.com/r4kogama/Sprint-5.2-MySQL-queries/blob/main/images/universidad.JPG){width='100px'}
 
 
 #### 1 Devuelve un listado con el primer apellido, segundo apellido y el nombre de todos los alumnos/as. El listado deberá estar ordenado alfabéticamente de menor a mayor por el primer apellido, segundo apellido y nombre.
